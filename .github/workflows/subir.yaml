@@ -3,7 +3,7 @@ name: Despligue en DockerHub
 # SE EJECUTA AL HACER UN PUSH (master)
 on: 
   push:
-    branches:[master]
+    branches: [master]
 
 jobs:
   desplegar:
